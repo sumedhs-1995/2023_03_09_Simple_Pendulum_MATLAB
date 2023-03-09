@@ -1,1 +1,1 @@
-# 2023_03_09_Simple_Pendulum_MATLAB
+Simulation of a Simple Pendulum System using ODE45 in MATLAB
